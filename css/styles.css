@@ -41,7 +41,7 @@ body{
 }
 
 #previous-operation {
-    color: rgb(107, 5, 5);
+    color: rgb(255, 255, 255);
     background-color: #000;
 }
 
@@ -63,7 +63,7 @@ body{
     border-radius: 0;
     height: 4em;
     font-size: 1.2em;
-    background-color: #dbdbdb;
+    background-color: #999191;
     cursor: pointer;
 }
 
